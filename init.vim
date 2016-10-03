@@ -27,6 +27,7 @@ NeoBundle 'guns/vim-clojure-static'
 NeoBundle 'losingkeys/vim-niji'
 NeoBundle 'tpope/vim-fireplace'
 NeoBundle 'tpope/vim-surround'
+NeoBundle 'vim-scripts/paredit.vim'
 
 " ...
 call neobundle#end()  
