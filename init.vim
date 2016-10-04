@@ -28,6 +28,8 @@ NeoBundle 'losingkeys/vim-niji'
 NeoBundle 'tpope/vim-fireplace'
 NeoBundle 'tpope/vim-surround'
 NeoBundle 'vim-scripts/paredit.vim'
+NeoBundle 'tomlion/vim-solidity'
+NeoBundle 'scrooloose/syntastic'
 
 " ...
 call neobundle#end()  
